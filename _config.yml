@@ -1,5 +1,5 @@
 title: Denis Gojkovic
-logo: Images/Bewerbungsfoto.jpg
-description: Hier kannst du den Text einfügen.
+description: Modernist is a theme for GitHub Pages.
 show_downloads: true
-theme: jekyll-theme-minima
+google_analytics:
+theme: jekyll-theme-modernist
