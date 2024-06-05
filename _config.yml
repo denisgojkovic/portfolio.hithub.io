@@ -3,3 +3,4 @@ title: Denis Gojkovic
 description: ***Hier kannst du den Text einfügen.***
 show_downloads: true
 theme: jekyll-theme-midnight
+#you have to edit jekyll-theme-... , otherwise it won't work
