@@ -1,5 +1,5 @@
 title: Denis Gojkovic
-logo: /assets/Images/Bewerbungsfoto.jpg
-#description: Hier kannst du den Text einfügen.
+logo: Images/Bewerbungsfoto.jpg
+description: Hier kannst du den Text einfügen.
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
