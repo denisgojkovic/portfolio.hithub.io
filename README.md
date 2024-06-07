@@ -1,9 +1,10 @@
+# Data Analyst
 ## Education
 ### University of Applied Sciences Northwestern Switzerland
 Bachelor of Science in Business Engineering
 Specialization in Supply Chain and Production Management
 2020 - 2024
-Study contents:
+#### Study contents:
 - Engineering sciences
 - Business administration
 - Computer Science and Programming (Python, HTML, CSS, JavaScript)
