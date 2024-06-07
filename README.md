@@ -37,7 +37,7 @@ Mother tongue
 Level B2 (Cambridge Certificate First)
 PTE Academic (79/90 points)
 - French
--- Level B1/B2
+  - Level B1/B2
 - Russian
 Native speaker
 
