@@ -19,7 +19,7 @@ Bachelor thesis
 - Controlling
 - Business Analysis
 - Revision of key figures
-- 
+
 Festo AG Inside Sales and Coordinator
 09/2021-06/2024
 - Technical sales consulting
