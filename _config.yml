@@ -2,5 +2,27 @@ title: Denis Gojkovic
 #logo: main/Images/Bewerbungsfoto.jpg
 description: Modernist is a theme for GitHub Pages.
 show_downloads: true
-google_analytics:
+#google_analytics: UA-XXXXX-Y  # Füge hier deine Google Analytics Tracking-ID ein
 theme: jekyll-theme-minimal
+
+# Optional: Fügt eine benutzerdefinierte Navigation hinzu
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Contact"
+    url: "/contact/"
+
+# Optional: Fügt Social Media Links hinzu
+social_links:
+  linkedin: https://www.linkedin.com/in/denis-gojkovic-93bb94184/
+  github: https://github.com/denisgojkovic
+
+# Optional: Fügt einen Footer hinzu
+footer: "© 2024 Denis Gojkovic. All rights reserved."
+
+# Optional: Aktiviert Syntax-Highlighting für Code-Snippets
+highlighter: rouge
