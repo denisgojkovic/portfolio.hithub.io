@@ -1,5 +1,5 @@
 ### Education
-University of Applied Sciences Northwestern Switzerland
+#### University of Applied Sciences Northwestern Switzerland
 Bachelor of Science in Business Engineering
 Specialization in Supply Chain and Production Management
 Study contents:
