@@ -35,7 +35,7 @@ Mother tongue
 Mother tongue
 - Native English 
 Level B2 (Cambridge Certificate First)
-PTE Academic (79/90 points)
+-   PTE Academic (79/90 points)
 - French
   - Level B1/B2
 - Russian
