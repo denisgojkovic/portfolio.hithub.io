@@ -29,16 +29,16 @@ Bachelor thesis
 - Escalation management
 
 ### Languages
-German 
+- German 
 Mother tongue
-Croatian
+- Croatian
 Mother tongue
-Native English 
+- Native English 
 Level B2 (Cambridge Certificate First)
 PTE Academic (79/90 points)
-French
+- French
 Level B1/B2
-Russian
+- Russian
 Native speaker
 
 ### programming skills
