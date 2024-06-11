@@ -1,4 +1,4 @@
-# Data Analyst
+# Business Engineer
 ## Education
 ### University of Applied Sciences Northwestern Switzerland
 Bachelor of Science in Business Engineering
