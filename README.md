@@ -32,18 +32,18 @@ Bachelor thesis
 
 ### Languages
 - German 
-  - Mother tongue
+  - Native Speaker
 - Croatian
   - Mother tongue
-- Native English 
+- English 
   - Level B2 (Cambridge Certificate First)
-  - PTE Academic (79/90 points)
+  - PTE Academic (79 out of 90 points)
 - French
   - Level B1/B2
 - Russian
-  - Native speaker
+  - Mother tongue
 
-### programming skills
+### Coding Skills
 General knowledge in:
 - Python 
 - HTML/CSS/JavaScript
